@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/miguel-prada/coreui/issues"
   },
-  "homepage": "https://github.com/miguel-prada/coreui#readme"
+  "homepage": "https://github.com/miguel-prada/coreui#readme",
+  "publishConfig": {
+    "miguel-prada:registry": "https://npm.pkg.github.com"
+  }
 }
